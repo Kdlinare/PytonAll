@@ -1,2 +1,0 @@
-# PytonAll
-Desarrollos en Pyton
